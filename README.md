@@ -5,9 +5,12 @@ This repo helps people who want to set up the angular from scratch.
 
 Folder structure with minimum required files in the image below.
 <br/>
+<br/>
+
 ![alt text](https://github.com/Ramyakonkala/Angular7FromScratch/blob/master/src/app/assets/MinimumRequiredFiles.PNG)
 
 All that you have to do is to **clone** and run following commands
-
+<br/>
+<br/>
 **npm i**
 **ng serve**
