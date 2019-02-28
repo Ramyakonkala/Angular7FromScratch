@@ -13,4 +13,5 @@ All that you have to do is to **clone** and run following commands
 <br/>
 <br/>
 **npm i**
+<br/>
 **ng serve**
