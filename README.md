@@ -9,9 +9,13 @@ Folder structure with minimum required files in the image below.
 
 ![alt text](https://github.com/Ramyakonkala/Angular7FromScratch/blob/master/src/app/assets/MinimumRequiredFiles.PNG)
 
-All that you have to do is to **clone** and run following commands
+All that you have to do is to **clone** the repository.
 <br/>
+Install angular cli globally
 <br/>
+**npm install -g @angular/cli**
+<br/>
+And run following commands
 **npm i**
 <br/>
 **ng serve**
